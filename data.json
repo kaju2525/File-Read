@@ -1,0 +1,29 @@
+{
+  "message": "List",
+  "result": [
+    {
+      "id": "1",
+      "name": "Express Entry Point Calculator"
+    },
+    {
+      "id": "2",
+      "name": "BCPNP Point Calculator"
+    },
+    {
+      "id": "7",
+      "name": "Alberta Point Calculator"
+    },
+    {
+      "id": "6",
+      "name": "Manitoba Point Calculator"
+    },
+    {
+      "id": "8",
+      "name": "PEI Point Calculator"
+    },
+    {
+      "id": "9",
+      "name": "Saskatchewan Point Calculator"
+    }
+  ]
+}
